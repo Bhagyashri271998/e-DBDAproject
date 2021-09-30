@@ -1,6 +1,6 @@
 # e-DBDAproject
 
-GSS wages - is the dataset we have used for project 
+gss_wages.csv - is the dataset we have used for project 
 Features - year,occupation code,occupation,education,gender,childs,age,Income
 
 Topic Description
